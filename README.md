@@ -7,7 +7,7 @@ Este projeto é um dashboard interativo desenvolvido em [Streamlit](https://stre
 ## 🗂️ Estrutura do Projeto
 
 ```
-seu_app/
+dashboard/
 │
 ├── app.py                       # Arquivo principal Streamlit (entrypoint)
 ├── style.css                    # Estilos customizados (CSS)

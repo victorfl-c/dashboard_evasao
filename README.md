@@ -37,8 +37,8 @@ dashboard/
 
 1. **Clone o repositório e acesse a pasta:**
    ```bash
-   git clone https://github.com/seu_usuario/seu_app.git
-   cd seu_app
+   git clone https://github.com/victorfl-c/dashboard_evasao.git
+   cd dashboard_evasao
    ```
 
 2. **Crie um ambiente virtual e instale as dependências:**
@@ -81,7 +81,7 @@ dashboard/
   Funções para treinar e aplicar modelos preditivos de risco de evasão, exibir gráficos e permitir download de resultados.
 
 - **modules/style.py**  
-  Função para injeção do CSS customizado (presente em `style.css`).
+  Função para injeção do CSS customizado (presente em `styles.css`).
 
 - **styles.css**  
   Arquivo com as regras de CSS customizadas para visual do dashboard.

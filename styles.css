@@ -1,0 +1,141 @@
+    .stDecoration,
+    [data-testid="stDecoration"],
+    #stDecoration {
+        border-color: #267c79 !important;
+        background: #267c79 !important;
+        border-top-color: #267c79 !important;
+        border-bottom-color: #267c79 !important;
+        border-right-color: #267c79 !important;
+        border-left-color: #267c79 !important;
+    }
+    [data-baseweb="tag"] {
+        background-color: #267c79 !important;
+        color: #ffffff !important;
+        border: 2px solid #267c79 !important;
+        border-radius: 0.5rem !important;
+    }
+    [data-baseweb="tag"] svg {
+        fill: #ffffff !important;
+    }
+    div[data-baseweb="slider"] > div > div:nth-child(2) {
+        background: #267c79 !important;
+        height: 6px !important;
+        border-radius: 3px !important;
+    }
+    div[data-baseweb="slider"] > div > div:nth-child(1),
+    div[data-baseweb="slider"] > div > div:nth-child(3) {
+        background: #d0d0d0 !important;
+        height: 6px !important;
+        border-radius: 3px !important;
+    }
+    div[role="slider"] {
+        background-color: #267c79 !important;
+        border: 2px solid #ffffff !important;
+        border-radius: 50% !important;
+    }
+    [data-testid="stSliderThumbValue"] {
+        background-color: #267c79 !important;
+        color: white !important;
+        border-radius: 0.5rem !important;
+        font-weight: bold !important;
+        padding: 2px 6px;
+        font-size: 0.8rem;
+    }
+    [data-testid="stSliderTickBarMin"],
+    [data-testid="stSliderTickBarMax"] {
+        color: #267c79 !important;
+        font-weight: bold;
+    }
+    button[data-baseweb="tab"][aria-selected="true"] div, 
+    button[data-baseweb="tab"]:hover div,
+    button[data-baseweb="tab"]:focus div {
+        color: #267c79 !important;
+    }
+    button[data-baseweb="tab"][aria-selected="true"] {
+        border-bottom: 3px solid #267c79 !important;
+        background-color: #e6f4f3 !important;
+    }
+    button[data-baseweb="tab"]:hover,
+    button[data-baseweb="tab"]:focus {
+        border-bottom: 3px solid #267c79 !important;
+        color: #267c79 !important;
+        background-color: #f2fbfa !important;
+    }
+    button[data-baseweb="tab"][aria-selected="true"]::after {
+        border-bottom: 3px solid #267c79 !important;
+    }
+    div[data-baseweb="tab-highlight"] {
+        background: #267c79 !important;
+    }
+    div[data-baseweb="tab-border"] {
+        background: #267c79 !important;
+    }
+    .stDownloadButton button,
+    [data-testid="stDownloadButton"] button,
+    [data-testid="stBaseButton-secondary"] {
+        border: 2px solid #267c79 !important;
+        background-color: #ffffff !important;
+        color: #267c79 !important;
+        border-radius: 0.5rem !important;
+        transition: background 0.2s, color 0.2s, border 0.2s;
+        font-weight: 600;
+    }
+    .stDownloadButton button:hover,
+    .stDownloadButton button:focus,
+    [data-testid="stDownloadButton"] button:hover,
+    [data-testid="stDownloadButton"] button:focus {
+        background-color: #e6f4f3 !important;
+        border: 2px solid #267c79 !important;
+        color: #267c79 !important;
+        outline: none !important;
+        box-shadow: none !important;
+    }
+    [data-baseweb="select"] div:focus,
+    [data-baseweb="select"] div:focus-within,
+    [data-baseweb="select"] div[data-focus-visible="true"],
+    [data-baseweb="tag"][role="button"]:focus,
+    [data-baseweb="tag"][role="button"]:focus-visible,
+    [data-baseweb="tag"][role="button"]:active,
+    [data-baseweb="tag"][role="button"][aria-selected="true"],
+    .st-emotion-cache-abycrm:focus-within,
+    .st-emotion-cache-abycrm:focus,
+    .st-emotion-cache-abycrm[data-focus-visible="true"],
+    .st-emotion-cache-abycrm[aria-selected="true"] {
+        border-color: #267c79 !important;
+        box-shadow: 0 0 0 2px #267c7966 !important;
+        outline: none !important;
+    }
+    [data-baseweb="select"] input:focus,
+    [data-baseweb="select"] input:active {
+        border-color: #267c79 !important;
+        box-shadow: 0 0 0 2px #267c7966 !important;
+        outline: none !important;
+    }
+    [data-baseweb="tag"][role="button"] {
+        border: 2px solid #267c79 !important;
+        background: #267c79 !important;
+        color: #fff !important;
+    }
+    .st-ev,
+    .st-eu,
+    .st-et,
+    .st-es {
+        border-color: #267c79 !important;
+        box-shadow: 0 0 0 2px #267c7966 !important;
+        outline: none !important;
+    }
+    .st-ev, .st-eu, .st-et, .st-es,
+    .st-ev:focus, .st-eu:focus, .st-et:focus, .st-es:focus,
+    .st-ev:active, .st-eu:active, .st-et:active, .st-es:active {
+        border-color: #267c79 !important;
+        box-shadow: 0 0 0 2px #267c7966 !important;
+        outline: none !important;
+    }
+                
+    [data-baseweb="select"],
+    [data-baseweb="select"] > div,
+    [data-baseweb="select"] > div > div,
+    .st-es, .st-ev, .st-et, .st-eu,
+    .st-an, .st-aq, .st-ao, .st-ap {
+        border-radius: 0.5rem !important;
+    }

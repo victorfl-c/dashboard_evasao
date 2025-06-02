@@ -8,6 +8,7 @@ from modules.style import inject_custom_css
 import pandas as pd
 
 def main():
+    
     inject_custom_css()
     df = load_data()
     filters = sidebar_filters(df)

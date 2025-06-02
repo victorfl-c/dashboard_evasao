@@ -144,7 +144,7 @@ Sugira melhorias, reporte bugs ou contribua com novas funcionalidades.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](LICENSE.md).
 
 ---
 

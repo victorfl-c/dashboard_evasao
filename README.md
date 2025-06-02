@@ -10,7 +10,7 @@ Este projeto é um dashboard interativo desenvolvido em [Streamlit](https://stre
 dashboard/
 │
 ├── app.py                       # Arquivo principal Streamlit (entrypoint)
-├── style.css                    # Estilos customizados (CSS)
+├── styles.css                    # Estilos customizados (CSS)
 ├── requirements.txt             # Dependências do projeto
 ├── data/
 │   └── dataset_risco_matriculados.csv
